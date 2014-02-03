@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cost Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Tracker Log</string>
+    <string name="title_section2">Trackers</string>
+    <string name="title_section3">Tracker Editor</string>
+    <string name="button_label_add_tracker">Add +</string>
+    <string name="label_list_view">Tracker List</string>
+    <string name="button_calendar_view">Calendar View</string>
+    <string name="label_tracker_name">Tracker Name</string>
+    <string name="label_tracker_stop_auto">Auto Stop Timer</string>
+    <string name="label_tracker_stop_manual">Manual Stop</string>
+    <string name="help_timer_stop_auto">Stop the timer when another Tracker timer is started</string>
+    <string name="help_timer_stop_manual">Stop the timer by toggling the Tracker manually</string>
+    <string name="object_tracker_name">Tracker</string>
+    <string name="todo_create_system_pref_here">This should be a checkbox preference for timer stop type [auto|manual]</string>
+    <string-array name="string_array_stop_types">
+        <item>Auto Stop Timer</item>
+        <item>Manual Stop Timer</item>
+    </string-array>
+    <string name="label_color_picker">Select A Color</string>
+    <string name="button_OK">OK</string>
+    <string name="placeholder">Lorem Ipsum</string>
+    <string name="edit">Edit</string>
+    <string name="hide">Hide</string>
+    <string name="delete">Delete</string>
+    <string name="view_in_calendar">View in Calendar</string>
+    <string name="label_start_time">Start time</string>
+    <string name="label_stop_time">End time</string>
+    <string name="clock_is_running_symbol">--:--</string>
+
+</resources>

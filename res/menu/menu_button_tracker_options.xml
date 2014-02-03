@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/itemEdit" android:titleCondensed="E" android:menuCategory="alternative" android:title="@string/edit" android:visible="true"></item>
+    
+    <item android:id="@+id/itemHide" android:visible="true" android:titleCondensed="H" android:title="@string/hide"></item>
+    <item android:id="@+id/itemView" android:titleCondensed="V" android:menuCategory="alternative" android:title="@string/view_in_calendar" android:visible="true"></item>
+    <item android:id="@+id/itemDelete" android:titleCondensed="D" android:menuCategory="alternative" android:title="@string/delete" android:visible="false"></item>
+    
+
+</menu>
